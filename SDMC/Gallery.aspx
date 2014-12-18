@@ -16,8 +16,8 @@
             	<div class="bread-heading"><h1>Gallery 3 Columns</h1></div>
                 <div class="bread-crumb pull-right">
                 <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="about-us.html">Gallery 3 Columns</a></li>
+                <li><a href="Home.aspx">Home</a></li>
+                <li><a href="Gallery.aspx">Gallery</a></li>
                 </ul>
                 </div>
             </div>
@@ -61,7 +61,7 @@
                           </div>
                         <div class="doc-name">
                             <div class="doc-name-class">Ashley Morgan, Prof</div><span class="doc-title">Pediatric Clinic</span>
-                            <hr>
+                            <hr/>
                             <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                           </div>
                          </div>
@@ -75,7 +75,7 @@
                           </div>
                         <div class="doc-name">
                             <div class="doc-name-class">Amanda Lauren, Prof</div><span class="doc-title">Pediatric Clinic</span>
-                            <hr>
+                            <hr/>
                             <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                           </div>
                          </div>
@@ -85,11 +85,11 @@
                         
                           <div class="zoom-wrap">
                           <div class="zoom-icon"></div>
-                          <img alt="" class="img-responsive" src="images/mydoc-dummy-3.jpg">
+                          <img alt="" class="img-responsive" src="images/mydoc-dummy-3.jpg"/>
                           </div>
                         <div class="doc-name">
                             <div class="doc-name-class">Joe Courtney, Prof</div><span class="doc-title">Pediatric Clinic</span>
-                            <hr>
+                            <hr/>
                             <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                           </div>
                          </div>
@@ -185,11 +185,11 @@
                             
                               <div class="zoom-wrap">
                               <div class="zoom-icon"></div>
-                              <img alt="" class="img-responsive" src="images/mydoc-dummy-1.jpg">
+                              <img alt="" class="img-responsive" src="images/mydoc-dummy-1.jpg"/>
                               </div>
                               <div class="doc-name">
                                   <div class="doc-name-class">Amanda Lauren, Prof</div><span class="doc-title">Health Care</span>
-                                  <hr>
+                                  <hr/>
                                   <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                               </div>
                              </div>
@@ -199,11 +199,11 @@
                         
                           <div class="zoom-wrap">
                           <div class="zoom-icon"></div>
-                          <img alt="" class="img-responsive" src="images/mydoc-img-1.jpg">
+                          <img alt="" class="img-responsive" src="images/mydoc-img-1.jpg"/>
                           </div>
                         <div class="doc-name">
                             <div class="doc-name-class">Ashley Morgan, Prof</div><span class="doc-title">Health Care</span>
-                            <hr>
+                            <hr/>
                             <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                           </div>
                          </div>
@@ -213,11 +213,11 @@
                         
                           <div class="zoom-wrap">
                           <div class="zoom-icon"></div>
-                          <img alt="" class="img-responsive" src="images/mydoc-dummy-3.jpg">
+                          <img alt="" class="img-responsive" src="images/mydoc-dummy-3.jpg"/>
                           </div>
                         <div class="doc-name">
                             <div class="doc-name-class">Joe Courtney, Prof</div><span class="doc-title">Health Care</span>
-                            <hr>
+                            <hr/>
                             <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                           </div>
                          </div>
@@ -229,11 +229,11 @@
                             
                               <div class="zoom-wrap">
                               <div class="zoom-icon"></div>
-                              <img alt="" class="img-responsive" src="images/mydoc-img-3.jpg">
+                              <img alt="" class="img-responsive" src="images/mydoc-img-3.jpg"/>
                               </div>
                               <div class="doc-name">
                                   <div class="doc-name-class">Amanda Lauren, Prof</div><span class="doc-title">Pediatric Clinic</span>
-                                  <hr>
+                                  <hr/>
                                   <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                               </div>
                              </div>
@@ -243,11 +243,11 @@
                         
                           <div class="zoom-wrap">
                           <div class="zoom-icon"></div>
-                          <img alt="" class="img-responsive" src="images/mydoc-dummy-2.jpg">
+                          <img alt="" class="img-responsive" src="images/mydoc-dummy-2.jpg"/>
                           </div>
                         <div class="doc-name">
                             <div class="doc-name-class">Ashley Morgan, Prof</div><span class="doc-title">Pediatric Clinic</span>
-                            <hr>
+                            <hr/>
                             <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                           </div>
                          </div>
@@ -257,11 +257,11 @@
                         
                           <div class="zoom-wrap">
                           <div class="zoom-icon"></div>
-                          <img alt="" class="img-responsive" src="images/mydoc-img-2.jpg">
+                          <img alt="" class="img-responsive" src="images/mydoc-img-2.jpg"/>
                           </div>
                         <div class="doc-name">
                             <div class="doc-name-class">Joe Courtney, Prof</div><span class="doc-title">Pediatric Clinic</span>
-                            <hr>
+                            <hr/>
                             <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                           </div>
                          </div>
@@ -321,7 +321,7 @@
                               </div>
                               <div class="doc-name">
                                   <div class="doc-name-class">Amanda Lauren, Prof</div><span class="doc-title">Gastroenterologist</span>
-                                  <hr>
+                                  <hr/>
                                   <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                               </div>
                              </div>
@@ -331,11 +331,11 @@
                         
                           <div class="zoom-wrap">
                           <div class="zoom-icon"></div>
-                          <img alt="" class="img-responsive" src="images/mydoc-dummy-2.jpg">
+                          <img alt="" class="img-responsive" src="images/mydoc-dummy-2.jpg"/>
                           </div>
                         <div class="doc-name">
                             <div class="doc-name-class">Ashley Morgan, Prof</div><span class="doc-title">Gastroenterologist</span>
-                            <hr>
+                            <hr/>
                             <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                           </div>
                          </div>
@@ -347,11 +347,11 @@
                             
                               <div class="zoom-wrap">
                               <div class="zoom-icon"></div>
-                              <img alt="" class="img-responsive" src="images/mydoc-img-2.jpg">
+                              <img alt="" class="img-responsive" src="images/mydoc-img-2.jpg"/>
                               </div>
                               <div class="doc-name">
                                   <div class="doc-name-class">Jack Wong, Prof</div><span class="doc-title">Outpatient Rehab</span>
-                                  <hr>
+                                  <hr/>
                                   <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                               </div>
                              </div>
@@ -361,11 +361,11 @@
                         
                           <div class="zoom-wrap">
                           <div class="zoom-icon"></div>
-                          <img alt="" class="img-responsive" src="images/mydoc-dummy-3.jpg">
+                          <img alt="" class="img-responsive" src="images/mydoc-dummy-3.jpg"/>
                           </div>
                         <div class="doc-name">
                             <div class="doc-name-class">Joe Courtney, Prof</div><span class="doc-title">Outpatient Rehab</span>
-                            <hr>
+                            <hr/>
                             <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                           </div>
                          </div>
@@ -377,11 +377,11 @@
                             
                               <div class="zoom-wrap">
                               <div class="zoom-icon"></div>
-                              <img alt="" class="img-responsive" src="images/mydoc-dummy-1.jpg">
+                              <img alt="" class="img-responsive" src="images/mydoc-dummy-1.jpg"/>
                               </div>
                               <div class="doc-name">
                                   <div class="doc-name-class">Ashley Morgan, Prof</div><span class="doc-title">Outpatient Surgery</span>
-                                  <hr>
+                                  <hr/>
                                   <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                               </div>
                              </div>
@@ -391,11 +391,11 @@
                         
                           <div class="zoom-wrap">
                           <div class="zoom-icon"></div>
-                          <img alt="" class="img-responsive" src="images/mydoc-img-1.jpg">
+                          <img alt="" class="img-responsive" src="images/mydoc-img-1.jpg"/>
                           </div>
                         <div class="doc-name">
                             <div class="doc-name-class">Amanda Lauren, Prof</div><span class="doc-title">Outpatient Surgery</span>
-                            <hr>
+                            <hr/>
                             <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                           </div>
                          </div>
@@ -405,11 +405,11 @@
                         
                           <div class="zoom-wrap">
                           <div class="zoom-icon"></div>
-                          <img alt="" class="img-responsive" src="images/mydoc-dummy-3.jpg">
+                          <img alt="" class="img-responsive" src="images/mydoc-dummy-3.jpg"/>
                           </div>
                         <div class="doc-name">
                             <div class="doc-name-class">Joe Courtney, Prof</div><span class="doc-title">Outpatient Surgery</span>
-                            <hr>
+                            <hr/>
                             <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                           </div>
                          </div>
@@ -426,11 +426,11 @@
                         
                           <div class="zoom-wrap">
                           <div class="zoom-icon"></div>
-                          <img alt="" class="img-responsive" src="images/mydoc-dummy-1.jpg">
+                          <img alt="" class="img-responsive" src="images/mydoc-dummy-1.jpg"/>
                           </div>
                         <div class="doc-name">
                             <div class="doc-name-class">Ashley Morgan, Prof</div><span class="doc-title">Pediatric Clinic</span>
-                            <hr>
+                            <hr/>
                             <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                           </div>
                          </div>
@@ -440,11 +440,11 @@
                         
                           <div class="zoom-wrap">
                           <div class="zoom-icon"></div>
-                          <img alt="" class="img-responsive" src="images/mydoc-dummy-2.jpg">
+                          <img alt="" class="img-responsive" src="images/mydoc-dummy-2.jpg"/>
                           </div>
                         <div class="doc-name">
                             <div class="doc-name-class">Amanda Lauren, Prof</div><span class="doc-title">Pediatric Clinic</span>
-                            <hr>
+                            <hr/>
                             <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                           </div>
                          </div>
@@ -486,7 +486,7 @@
                           </div>
                         <div class="doc-name">
                             <div class="doc-name-class">Joe Courtney, Prof</div><span class="doc-title">Pediatric Clinic</span>
-                            <hr>
+                            <hr/>
                             <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                           </div>
                          </div>
@@ -510,11 +510,11 @@
                         
                           <div class="zoom-wrap">
                           <div class="zoom-icon"></div>
-                          <img alt="" class="img-responsive" src="images/mydoc-dummy-1.jpg">
+                          <img alt="" class="img-responsive" src="images/mydoc-dummy-1.jpg"/>
                           </div>
                         <div class="doc-name">
                             <div class="doc-name-class">Ashley Morgan, Prof</div><span class="doc-title">Pediatric Clinic</span>
-                            <hr>
+                            <hr/>
                             <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                           </div>
                          </div>
@@ -524,11 +524,11 @@
                         
                           <div class="zoom-wrap">
                           <div class="zoom-icon"></div>
-                          <img alt="" class="img-responsive" src="images/mydoc-dummy-2.jpg">
+                          <img alt="" class="img-responsive" src="images/mydoc-dummy-2.jpg"/>
                           </div>
                         <div class="doc-name">
                             <div class="doc-name-class">Amanda Lauren, Prof</div><span class="doc-title">Pediatric Clinic</span>
-                            <hr>
+                            <hr/>
                             <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                           </div>
                          </div>
@@ -538,11 +538,11 @@
                         
                           <div class="zoom-wrap">
                           <div class="zoom-icon"></div>
-                          <img alt="" class="img-responsive" src="images/mydoc-dummy-3.jpg">
+                          <img alt="" class="img-responsive" src="images/mydoc-dummy-3.jpg"/>
                           </div>
                         <div class="doc-name">
                             <div class="doc-name-class">Joe Courtney, Prof</div><span class="doc-title">Pediatric Clinic</span>
-                            <hr>
+                            <hr/>
                             <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                           </div>
                          </div>
@@ -556,11 +556,11 @@
                             
                               <div class="zoom-wrap">
                               <div class="zoom-icon"></div>
-                              <img alt="" class="img-responsive" src="images/mydoc-dummy-1.jpg">
+                              <img alt="" class="img-responsive" src="images/mydoc-dummy-1.jpg"/>
                               </div>
                               <div class="doc-name">
                                   <div class="doc-name-class">Amanda Lauren, Prof</div><span class="doc-title">Health Care</span>
-                                  <hr>
+                                  <hr/>
                                   <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                               </div>
                              </div>
@@ -570,11 +570,11 @@
                         
                           <div class="zoom-wrap">
                           <div class="zoom-icon"></div>
-                          <img alt="" class="img-responsive" src="images/mydoc-img-1.jpg">
+                          <img alt="" class="img-responsive" src="images/mydoc-img-1.jpg"/>
                           </div>
                         <div class="doc-name">
                             <div class="doc-name-class">Ashley Morgan, Prof</div><span class="doc-title">Health Care</span>
-                            <hr>
+                            <hr/>
                             <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                           </div>
                          </div>
@@ -584,11 +584,11 @@
                         
                           <div class="zoom-wrap">
                           <div class="zoom-icon"></div>
-                          <img alt="" class="img-responsive" src="images/mydoc-dummy-3.jpg">
+                          <img alt="" class="img-responsive" src="images/mydoc-dummy-3.jpg"/>
                           </div>
                         <div class="doc-name">
                             <div class="doc-name-class">Joe Courtney, Prof</div><span class="doc-title">Health Care</span>
-                            <hr>
+                            <hr/>
                             <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                           </div>
                          </div>
@@ -602,11 +602,11 @@
                             
                               <div class="zoom-wrap">
                               <div class="zoom-icon"></div>
-                              <img alt="" class="img-responsive" src="images/mydoc-img-3.jpg">
+                              <img alt="" class="img-responsive" src="images/mydoc-img-3.jpg"/>
                               </div>
                               <div class="doc-name">
                                   <div class="doc-name-class">Amanda Lauren, Prof</div><span class="doc-title">Pediatric Clinic</span>
-                                  <hr>
+                                  <hr/>
                                   <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                               </div>
                              </div>
@@ -616,11 +616,11 @@
                         
                           <div class="zoom-wrap">
                           <div class="zoom-icon"></div>
-                          <img alt="" class="img-responsive" src="images/mydoc-dummy-2.jpg">
+                          <img alt="" class="img-responsive" src="images/mydoc-dummy-2.jpg"/>
                           </div>
                         <div class="doc-name">
                             <div class="doc-name-class">Ashley Morgan, Prof</div><span class="doc-title">Pediatric Clinic</span>
-                            <hr>
+                            <hr/>
                             <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                           </div>
                          </div>
@@ -630,11 +630,11 @@
                         
                           <div class="zoom-wrap">
                           <div class="zoom-icon"></div>
-                          <img alt="" class="img-responsive" src="images/mydoc-img-2.jpg">
+                          <img alt="" class="img-responsive" src="images/mydoc-img-2.jpg"/>
                           </div>
                         <div class="doc-name">
                             <div class="doc-name-class">Joe Courtney, Prof</div><span class="doc-title">Pediatric Clinic</span>
-                            <hr>
+                            <hr/>
                             <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                           </div>
                          </div>
@@ -648,11 +648,11 @@
                             
                               <div class="zoom-wrap">
                               <div class="zoom-icon"></div>
-                              <img alt="" class="img-responsive" src="images/mydoc-img-1.jpg">
+                              <img alt="" class="img-responsive" src="images/mydoc-img-1.jpg"/>
                               </div>
                               <div class="doc-name">
                                   <div class="doc-name-class">Ashley Morgan, Prof</div><span class="doc-title">Dental Clinic</span>
-                                  <hr>
+                                  <hr/>
                                   <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                               </div>
                              </div>
@@ -662,11 +662,11 @@
                         
                           <div class="zoom-wrap">
                           <div class="zoom-icon"></div>
-                          <img alt="" class="img-responsive" src="images/mydoc-dummy-2.jpg">
+                          <img alt="" class="img-responsive" src="images/mydoc-dummy-2.jpg"/>
                           </div>
                         <div class="doc-name">
                             <div class="doc-name-class">Amanda Lauren, Prof</div><span class="doc-title">Dental Clinic</span>
-                            <hr>
+                            <hr/>
                             <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                           </div>
                          </div>
@@ -676,11 +676,11 @@
                         
                           <div class="zoom-wrap">
                           <div class="zoom-icon"></div>
-                          <img alt="" class="img-responsive" src="images/mydoc-dummy-3.jpg">
+                          <img alt="" class="img-responsive" src="images/mydoc-dummy-3.jpg"/>
                           </div>
                         <div class="doc-name">
                             <div class="doc-name-class">Joe Courtney, Prof</div><span class="doc-title">Dental Clinic</span>
-                            <hr>
+                            <hr/>
                             <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                           </div>
                          </div>
@@ -694,11 +694,11 @@
                             
                               <div class="zoom-wrap">
                               <div class="zoom-icon"></div>
-                              <img alt="" class="img-responsive" src="images/mydoc-dummy-1.jpg">
+                              <img alt="" class="img-responsive" src="images/mydoc-dummy-1.jpg"/>
                               </div>
                               <div class="doc-name">
                                   <div class="doc-name-class">Amanda Lauren, Prof</div><span class="doc-title">Gastroenterologist</span>
-                                  <hr>
+                                  <hr/>
                                   <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                               </div>
                              </div>
@@ -708,11 +708,11 @@
                         
                           <div class="zoom-wrap">
                           <div class="zoom-icon"></div>
-                          <img alt="" class="img-responsive" src="images/mydoc-dummy-2.jpg">
+                          <img alt="" class="img-responsive" src="images/mydoc-dummy-2.jpg"/>
                           </div>
                         <div class="doc-name">
                             <div class="doc-name-class">Ashley Morgan, Prof</div><span class="doc-title">Gastroenterologist</span>
-                            <hr>
+                            <hr/>
                             <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                           </div>
                          </div>
@@ -726,11 +726,11 @@
                             
                               <div class="zoom-wrap">
                               <div class="zoom-icon"></div>
-                              <img alt="" class="img-responsive" src="images/mydoc-img-2.jpg">
+                              <img alt="" class="img-responsive" src="images/mydoc-img-2.jpg"/>
                               </div>
                               <div class="doc-name">
                                   <div class="doc-name-class">Jack Wong, Prof</div><span class="doc-title">Outpatient Rehab</span>
-                                  <hr>
+                                  <hr/>
                                   <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                               </div>
                              </div>
@@ -740,11 +740,11 @@
                         
                           <div class="zoom-wrap">
                           <div class="zoom-icon"></div>
-                          <img alt="" class="img-responsive" src="images/mydoc-dummy-3.jpg">
+                          <img alt="" class="img-responsive" src="images/mydoc-dummy-3.jpg"/>
                           </div>
                         <div class="doc-name">
                             <div class="doc-name-class">Joe Courtney, Prof</div><span class="doc-title">Outpatient Rehab</span>
-                            <hr>
+                            <hr/>
                             <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                           </div>
                          </div>
@@ -758,11 +758,11 @@
                             
                               <div class="zoom-wrap">
                               <div class="zoom-icon"></div>
-                              <img alt="" class="img-responsive" src="images/mydoc-dummy-1.jpg">
+                              <img alt="" class="img-responsive" src="images/mydoc-dummy-1.jpg"/>
                               </div>
                               <div class="doc-name">
                                   <div class="doc-name-class">Ashley Morgan, Prof</div><span class="doc-title">Outpatient Surgery</span>
-                                  <hr>
+                                  <hr/>
                                   <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                               </div>
                              </div>
@@ -772,11 +772,11 @@
                         
                           <div class="zoom-wrap">
                           <div class="zoom-icon"></div>
-                          <img alt="" class="img-responsive" src="images/mydoc-img-1.jpg">
+                          <img alt="" class="img-responsive" src="images/mydoc-img-1.jpg"/>
                           </div>
                         <div class="doc-name">
                             <div class="doc-name-class">Amanda Lauren, Prof</div><span class="doc-title">Outpatient Surgery</span>
-                            <hr>
+                            <hr/>
                             <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                           </div>
                          </div>
@@ -786,11 +786,11 @@
                         
                           <div class="zoom-wrap">
                           <div class="zoom-icon"></div>
-                          <img alt="" class="img-responsive" src="images/mydoc-dummy-3.jpg">
+                          <img alt="" class="img-responsive" src="images/mydoc-dummy-3.jpg"/>
                           </div>
                         <div class="doc-name">
                             <div class="doc-name-class">Joe Courtney, Prof</div><span class="doc-title">Outpatient Surgery</span>
-                            <hr>
+                            <hr/>
                             <p>Nunc posuere hendrerit nunc, non rhoncus sem pellentesque nec.</p>
                           </div>
                          </div>

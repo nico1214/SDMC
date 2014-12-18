@@ -16,8 +16,8 @@
             	<div class="bread-heading"><h1>Patient Guide</h1></div>
                 <div class="bread-crumb pull-right">
                 <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="about-us.html">Patient Guide</a></li>
+                <li><a href="Home.aspx">Home</a></li>
+                <li><a href="PatientGuide.aspx">Patient Guide</a></li>
                 </ul>
                 </div>
             </div>

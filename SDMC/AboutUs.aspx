@@ -16,8 +16,8 @@
                     	<div class="bread-heading"><h1>About Us</h1></div>
                         <div class="bread-crumb pull-right">
                         <ul>
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="about-us.html">About Us</a></li>
+                        <li><a href="Home.aspx">Home</a></li>
+                        <li><a href="AboutUs.aspx">About Us</a></li>
                         </ul>
                         </div>
                     </div>

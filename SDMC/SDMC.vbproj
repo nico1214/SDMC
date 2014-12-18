@@ -1051,6 +1051,8 @@
     <Content Include="BackEnd\js\sparkline-chart.js" />
     <Content Include="BackEnd\js\tree.js" />
     <Content Include="BackEnd\js\vmaps-scripts.js" />
+    <Content Include="BackEnd\Home.aspx" />
+    <Content Include="BackEnd\Login.aspx" />
     <Content Include="bootstrap-new\js\bootstrap.js" />
     <Content Include="bootstrap-new\js\bootstrap.min.js" />
     <Content Include="Careers.aspx" />
@@ -1917,6 +1919,20 @@
     <Compile Include="BackEnd\BackEnd.Master.vb">
       <DependentUpon>BackEnd.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BackEnd\Home.aspx.designer.vb">
+      <DependentUpon>Home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BackEnd\Home.aspx.vb">
+      <DependentUpon>Home.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="BackEnd\Login.aspx.designer.vb">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BackEnd\Login.aspx.vb">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="Careers.aspx.designer.vb">
       <DependentUpon>Careers.aspx</DependentUpon>

@@ -16,8 +16,8 @@
             	<div class="bread-heading"><h1>Blog Masonry Left SideBar</h1></div>
                 <div class="bread-crumb pull-right">
                 <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="about-us.html">Blog Masonry Left SideBar</a></li>
+                <li><a href="Home.aspx">Home</a></li>
+                <li><a href="News.aspx">News</a></li>
                 </ul>
                 </div>
             </div>
@@ -70,19 +70,19 @@
                           <div class="fade in tab-pane active" id="popular">
                           	
                             <div class="popular-post-box">
-                                <img alt="" src="images/blog-dummy-1.png" class="img-responsive pull-left">
+                                <img alt="" src="images/blog-dummy-1.png" class="img-responsive pull-left"/>
                                 <div class="post-title-side">Etiam tristique niba</div>
                                 <div class="post-date-side">April, 7th, 2014</div>
                             </div>
                             
                             <div class="popular-post-box">
-                                <img alt="" src="images/blog-dummy-3.png" class="img-responsive pull-left">
+                                <img alt="" src="images/blog-dummy-3.png" class="img-responsive pull-left"/>
                                 <div class="post-title-side">Etiam tristique niba</div>
                                 <div class="post-date-side">April, 7th, 2014</div>
                             </div>
                             
                             <div class="popular-post-box">
-                                <img alt="" src="images/blog-dummy-3-3.jpg" class="img-responsive pull-left">
+                                <img alt="" src="images/blog-dummy-3-3.jpg" class="img-responsive pull-left"/>
                                 <div class="post-title-side">Etiam tristique niba</div>
                                 <div class="post-date-side">April, 7th, 2014</div>
                             </div>

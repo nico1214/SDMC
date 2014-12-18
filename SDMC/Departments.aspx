@@ -16,8 +16,8 @@
             	<div class="bread-heading"><h1>Department</h1></div>
                 <div class="bread-crumb pull-right">
                 <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="about-us.html">Department</a></li>
+                <li><a href="Home.aspx">Home</a></li>
+                <li><a href="Department.aspx">Department</a></li>
                 </ul>
                 </div>
             </div>
@@ -57,7 +57,7 @@
                 
                  <div class="fade tab-pane active in" id="a">
                     <div class="dept-title-tabs">Ophthalmology Clinic</div>
-                    <img alt="" class="img-responsive" src="images/dept-dymmy.jpg">
+                    <img alt="" class="img-responsive" src="images/dept-dymmy.jpg"/>
                     <div class="dept-subtitle-tabs">Donec scelerisque leo</div>
                     <p>Appropriately disintermediate cost effective users and technically sound methods of empowerment. Conveniently revolutionize client-based experiences whereas standards compliant content. Collaboratively repurpose clicks-and-mortar communities after holistic infrastructures. Uniquely engage vertical paradigms without cross functional users. Phosfluorescently disseminate cutting-edge e-commerce through goal-oriented intellectual capital.</p>
 
@@ -74,7 +74,7 @@
                  
                  <div class="tab-pane fade" id="b">
                  <div class="dept-title-tabs">Cardiac Clinic</div>
-                    <img alt="" class="img-responsive" src="images/dept-page-02.jpg">
+                    <img alt="" class="img-responsive" src="images/dept-page-02.jpg"/>
                     <div class="dept-subtitle-tabs">Donec scelerisque leo</div>
                     <p>Holisticly expedite innovative manufactured products after highly efficient ROI. Energistically enhance adaptive results rather than functionalized experiences. Uniquely enhance web-enabled channels for high-payoff convergence. Synergistically myocardinate tactical materials rather than virtual resources. Competently facilitate exceptional sources with high-quality e-business.</p>
 
@@ -88,7 +88,7 @@
                     
                  <div class="tab-pane fade" id="c">
                  <div class="dept-title-tabs">Ophthalmology Clinic</div>
-                    <img alt="" class="img-responsive" src="images/dept-page-03.jpg">
+                    <img alt="" class="img-responsive" src="images/dept-page-03.jpg"/>
                     <div class="dept-subtitle-tabs">Donec scelerisque leo</div>
                     <p>Globally scale cross-unit customer service after enterprise methods of empowerment. Progressively procrastinate magnetic strategic theme areas for inexpensive architectures. Dynamically revolutionize multifunctional markets vis-a-vis resource-leveling outsourcing. Compellingly re-engineer client-centered outsourcing vis-a-vis excellent data. Objectively maintain impactful e-commerce without principle-centered deliverables.</p>
 
@@ -104,7 +104,7 @@
                  
                  <div class="tab-pane fade" id="d">
                  <div class="dept-title-tabs">Ophthalmology Clinic</div>
-                    <img alt="" class="img-responsive" src="images/dept-page-04.jpg">
+                    <img alt="" class="img-responsive" src="images/dept-page-04.jpg"/>
                     <div class="dept-subtitle-tabs">Donec scelerisque leo</div>
                     <p>Competently leverage other's ethical networks vis-a-vis equity invested bandwidth. Intrinsicly evisculate distinctive process improvements with team building web-readiness. Dramatically deploy stand-alone results and value-added markets. Efficiently enhance leveraged.</p>
 
@@ -120,7 +120,7 @@
                  
                  <div class="tab-pane fade" id="e">
                  <div class="dept-title-tabs">Ophthalmology Clinic</div>
-                    <img alt="" class="img-responsive" src="images/dept-page-05.jpg">
+                    <img alt="" class="img-responsive" src="images/dept-page-05.jpg"/>
                     <div class="dept-subtitle-tabs">Donec scelerisque leo</div>
                     <p>Interactively leverage existing resource-leveling action items rather than enabled information. Professionally iterate visionary quality vectors via customized methods of empowerment. Synergistically optimize reliable imperatives with optimal processes. Monotonectally transform prospective ROI for inexpensive e-commerce. Monotonectally create orthogonal infrastructures via stand-alone methodologies.</p>
 
@@ -136,7 +136,7 @@
                  
                  <div class="tab-pane fade" id="f">
                  <div class="dept-title-tabs">Ophthalmology Clinic</div>
-                    <img alt="" class="img-responsive" src="images/dept-page-09.jpg">
+                    <img alt="" class="img-responsive" src="images/dept-page-09.jpg"/>
                     <div class="dept-subtitle-tabs">Donec scelerisque leo</div>
                     <p>Seamlessly build turnkey functionalities vis-a-vis ubiquitous data. Efficiently negotiate effective schemas before high standards in users. Holisticly restore performance based e-markets for alternative testing procedures. Interactively whiteboard global relationships after technically sound initiatives. Monotonectally envisioneer mission-critical models rather than efficient communities.</p>
 
@@ -148,7 +148,7 @@
                  
                  <div class="tab-pane fade" id="g">
                  <div class="dept-title-tabs">Ophthalmology Clinic</div>
-                    <img alt="" class="img-responsive" src="images/dept-page-06.jpg">
+                    <img alt="" class="img-responsive" src="images/dept-page-06.jpg"/>
                     <div class="dept-subtitle-tabs">Donec scelerisque leo</div>
                     <p>Dynamically revolutionize 2.0 platforms rather than backend data. Competently deploy strategic opportunities without customized communities. Competently innovate alternative data whereas effective data. Collaboratively aggregate wireless vortals through front-end imperatives.</p>
 
@@ -162,7 +162,7 @@
                  
                  <div class="tab-pane fade" id="h">
                  <div class="dept-title-tabs">Ophthalmology Clinic</div>
-                    <img alt="" class="img-responsive" src="images/dept-page-07.jpg">
+                    <img alt="" class="img-responsive" src="images/dept-page-07.jpg"/>
                     <div class="dept-subtitle-tabs">Donec scelerisque leo</div>
                     <p>Holisticly expedite innovative manufactured products after highly efficient ROI. Energistically enhance adaptive results rather than functionalized experiences. Uniquely enhance web-enabled channels for high-payoff convergence. Synergistically myocardinate tactical materials rather than virtual resources. Competently facilitate exceptional sources with high-quality e-business.</p>
 
@@ -178,7 +178,7 @@
                  
                  <div class="tab-pane fade" id="i">
                  <div class="dept-title-tabs">Ophthalmology Clinic</div>
-                    <img alt="" class="img-responsive" src="images/dept-page-08.jpg">
+                    <img alt="" class="img-responsive" src="images/dept-page-08.jpg"/>
                     <div class="dept-subtitle-tabs">Donec scelerisque leo</div>
                     <p>Energistically impact dynamic catalysts for change vis-a-vis real-time core competencies. Compellingly mesh one-to-one strategic theme areas rather than adaptive infrastructures. Intrinsicly initiate proactive potentialities after timely processes. Proactively target state of the art collaboration and idea-sharing vis-a-vis competitive models. Synergistically synergize empowered leadership via holistic bandwidth.</p>
 
@@ -192,7 +192,7 @@
                  
                  <div class="tab-pane fade" id="j">
                  <div class="dept-title-tabs">Ophthalmology Clinic</div>
-                    <img alt="" class="img-responsive" src="images/dept-page-09.jpg">
+                    <img alt="" class="img-responsive" src="images/dept-page-09.jpg"/>
                     <div class="dept-subtitle-tabs">Donec scelerisque leo</div>
                     <p>Progressively generate impactful web-readiness through maintainable growth strategies. Synergistically coordinate 24/7 total linkage rather than user friendly manufactured products. Progressively deliver granular technology without dynamic methods of empowerment. Phosfluorescently incubate cooperative "outside the box" thinking via holistic quality vectors. Efficiently develop B2C deliverables before stand-alone applications.</p>
 
@@ -208,7 +208,7 @@
                  
                  <div class="tab-pane fade" id="k">
                  <div class="dept-title-tabs">Ophthalmology Clinic</div>
-                    <img alt="" class="img-responsive" src="images/dept-page-10.jpg">
+                    <img alt="" class="img-responsive" src="images/dept-page-10.jpg"/>
                     <div class="dept-subtitle-tabs">Donec scelerisque leo</div>
                     <p>Synergistically drive proactive leadership with ubiquitous "outside the box" thinking. Synergistically deploy cross-unit potentialities for scalable core competencies. Competently exploit functional synergy via resource maximizing outsourcing. Energistically promote web-enabled infrastructures with adaptive data. Holisticly reintermediate </p>pandemic solutions after compelling e-markets.
 
@@ -222,7 +222,7 @@
                  
                  <div class="tab-pane fade" id="l">
                  <div class="dept-title-tabs">Ophthalmology Clinic</div>
-                    <img alt="" class="img-responsive" src="images/dept-page-01.jpg">
+                    <img alt="" class="img-responsive" src="images/dept-page-01.jpg"/>
                     <div class="dept-subtitle-tabs">Donec scelerisque leo</div>
                     <p>Seamlessly build turnkey functionalities vis-a-vis ubiquitous data. Efficiently negotiate effective schemas before high standards in users. Holisticly restore performance based e-markets for alternative testing procedures. Interactively whiteboard global relationships after technically sound initiatives. Monotonectally envisioneer mission-critical models rather than efficient communities.</p>
 
@@ -247,11 +247,11 @@
                     <option>Select Department</option>
                     <option>Select Department</option>
                     </select>
-                    <input type="text" class="appt-form-txt" placeholder="First Name(required)">
-                    <input type="text" class="appt-form-txt" placeholder="Last Name">
-                    <input type="text" class="appt-form-txt" placeholder="Phone(required)">
-                    <input type="email" class="appt-form-txt" placeholder="Email(required)">
-                    <input type="date" class="appt-form-txt">
+                    <input type="text" class="appt-form-txt" placeholder="First Name(required)"/>
+                    <input type="text" class="appt-form-txt" placeholder="Last Name"/>
+                    <input type="text" class="appt-form-txt" placeholder="Phone(required)"/>
+                    <input type="email" class="appt-form-txt" placeholder="Email(required)"/>
+                    <input type="date" class="appt-form-txt"/>
                     <section class="color-7" id="btn-click">
                 <button class="icon-mail btn2-st2 btn-7 btn-7b iform-button">Submit</button>
                 </section>

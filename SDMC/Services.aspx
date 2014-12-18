@@ -13,8 +13,8 @@
             	<div class="bread-heading"><h1>Services</h1></div>
                 <div class="bread-crumb pull-right">
                 <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="about-us.html">Services</a></li>
+                <li><a href="Home.aspx">Home</a></li>
+                <li><a href="Services.aspx">Services</a></li>
                 </ul>
                 </div>
             </div>
@@ -113,7 +113,7 @@
             
             <div class="col-md-12 col-xs-12 col-sm-12 pull-left full-content wow fadeInUp animated animated" data-wow-delay="0.5s" data-wow-offset="200" style="visibility: visible;-webkit-animation-delay: 0.5s; -moz-animation-delay: 0.5s; animation-delay: 0.5s;">
             <div class="full-content-title">Still Not Convinced?</div>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry lorem Ipsum has been<br>the industry's standard dummy text ever since the 1500s.</p>
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry lorem Ipsum has been<br/>the industry's standard dummy text ever since the 1500s.</p>
             </div>
             
             <div class="features-list col-xs-12 col-sm-4 col-md-3 col-lg-3 wow fadeInLeft animated animated" data-wow-delay="1s" data-wow-offset="200" style="visibility: visible;-webkit-animation-delay: 1s; -moz-animation-delay: 1s; animation-delay: 1s;">
